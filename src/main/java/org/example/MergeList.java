@@ -5,6 +5,9 @@ import java.util.*;
     public class MergeList {
 
         public static void main(String[] args) {
+            /*
+            * dev brunch Commit
+            * */
             List<Map<String, Object>> list1 = new ArrayList<>(); // 요청 데이터
             List<Map<String, Object>> list2 = new ArrayList<>(); // DB 저장 데이터
 
