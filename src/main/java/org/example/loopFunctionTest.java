@@ -68,6 +68,10 @@ public class loopFunctionTest {
             }
         }
 
+        if(emptyList.size() > 0 ){
+            System.out.println("commit");
+        }
+
 
     }
 
